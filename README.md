@@ -1,2 +1,2 @@
-# Pattern
-Universal pattern code in Java
+# Universal Pattern Codes
+Pattern for all A-Z alphabets in Java 
