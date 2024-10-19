@@ -1,9 +1,4 @@
 /**
- * 
- */
-package com.bldea.javTraining.patternCodes;
-
-/**
  * @Moiz Inamdar
  *
  */
