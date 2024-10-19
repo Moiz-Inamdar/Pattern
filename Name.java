@@ -1,12 +1,6 @@
-/**
- * 
- */
-package com.bldea.javTraining.patternCodes;
-
 import java.util.Scanner;
-
 /**
- * @author DELL
+ * @moiz_inamdar
  *
  */
 public class Name {
